@@ -9,3 +9,5 @@ After long investigations through the structure of the site, I found an API from
 
 Technology used for this project were scrapy and JSON 
 
+The OUTPUT,  PDF Booklet is not exposed!
+The uploaded project has only the pdf images scraped one by one.
